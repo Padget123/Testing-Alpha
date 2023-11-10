@@ -17,8 +17,8 @@ START_COMMAND : ["start"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
-GSTATS_COMMAND : ["gstats"]
-STATS_COMMAND : ["stats"]
+GSTATS_COMMAND : ["kkgstats"]
+STATS_COMMAND : ["kkstats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
