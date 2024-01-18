@@ -94,10 +94,10 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 150),
-            "NOW PLAYING",
+            "ALISHA PLAYING",
             fill="white",
             stroke_width=2,
-            stroke_fill="white",
+            stroke_fill="yellow",
             font=font2,
         )
         for line in para:
